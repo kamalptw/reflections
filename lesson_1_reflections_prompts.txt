@@ -1,0 +1,33 @@
+reflections on asteroid
+
+how did viewing diffreence between two versions help you?
+
+it was helpful because...I understood the  differences very easily rather than searching line by line through the file. it was easy and i can imagine it being even more useful when there are more than 1000 lines of code
+fc command for file comparison is useful 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I could easily go back to an old version and make changes in an easier way.
+I could use this as a guide to know which method is more efficient and why
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+sometimes the commit could be too small to save as a new version. so you will have a history of commits that basically are hard to navigate thru.
+but then again you can always switch to a smaller change very quickly rather than doing  a hour's work and enunciating every small details that you changed making the commit log bulky
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+sometimes two files are interrelated to each other so saving multiple files together makes sense.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log is used to maintain entire history of commits on files 
+git diff is used to compare two commits by using their commit ids
+
+How might using version control make you more confident to make changes that could break something?
+
+knowing that i could always revert to a previous version gives me the freedom to code indifferently to major errors. So i am faster than the rest
+
+Now that you have your workspace set up, what do you want to try using Git for?
+My new projects on android,or other programming languages .
+All my projects that i can upload using the github
