@@ -8,3 +8,10 @@ How is the staging area different from the working directory and the repository?
 
 staging area lets you add files that you need to be tracked and upon which changes are to be committed in a repository version of git
 working directory is all the files in a project that will be used to make the project i guess
+
+How can you use the staging area to make sure you have one commit per logical change?
+you can use the command git diff with no arguments
+this returns changes between working directory and the staging area
+git diff --staged returns the changes between the staged and the repository
+so you can add one commit oer logical change by staging first and committing later 
+remember that only the file that you add to the staging area gets compared to the repository's latest commit
