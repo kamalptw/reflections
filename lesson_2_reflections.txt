@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+using git init we initialize a repository
+It turns up a message initialized empty git repository in followed by "folder path" + .git/
+we need to initialize this in order to start keeping track of different versions of our project
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area lets you add files that you need to be tracked and upon which changes are to be committed in a repository version of git
+working directory is all the files in a project that will be used to make the project i guess
