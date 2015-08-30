@@ -15,3 +15,8 @@ this returns changes between working directory and the staging area
 git diff --staged returns the changes between the staged and the repository
 so you can add one commit oer logical change by staging first and committing later 
 remember that only the file that you add to the staging area gets compared to the repository's latest commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Supposing I want to add an experimental feature to my project I might want to branch so that i dont disturb the master
+I also can use branch to add other language supports till the layouts are perfected.
+
