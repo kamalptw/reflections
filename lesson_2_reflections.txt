@@ -20,3 +20,7 @@ What are some situations when branches would be helpful in keeping your history 
 Supposing I want to add an experimental feature to my project I might want to branch so that i dont disturb the master
 I also can use branch to add other language supports till the layouts are perfected.
 
+How do the diagrams help you visualize the branch structure?
+Diagrams help me see which commit is the latest and on which branch i am
+Also it lets me understand the value of unreachable commits
+pro tip : use git log --graph --oneline master (branch name) to visualize and compare the branches and how they have deflected from the master
