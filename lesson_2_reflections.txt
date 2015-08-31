@@ -24,3 +24,7 @@ How do the diagrams help you visualize the branch structure?
 Diagrams help me see which commit is the latest and on which branch i am
 Also it lets me understand the value of unreachable commits
 pro tip : use git log --graph --oneline master (branch name) to visualize and compare the branches and how they have deflected from the master
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+when we merge two branches together the branches combine into one branch
+We represent in the diagram to make sure there arent any unreachable commits as a result of merging.
