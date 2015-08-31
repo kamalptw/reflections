@@ -28,3 +28,7 @@ pro tip : use git log --graph --oneline master (branch name) to visualize and co
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 when we merge two branches together the branches combine into one branch
 We represent in the diagram to make sure there arent any unreachable commits as a result of merging.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic merging makes use of the parent file to check whether the changes can me merged without conflicts.
+manual merging you can consult with the co contributor and gauge whether a conflict can be resolved or not.
