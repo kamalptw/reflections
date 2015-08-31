@@ -4,3 +4,7 @@ When I want to publicly host a project
 When I have two or more contributors
 When I want to save a backup online of my repository
 When I want to put 'scene' and show off my skills
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+because github commits can happen at different times and by different people, it is wiser to regulary pull changes manually from github.
