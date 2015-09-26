@@ -20,3 +20,9 @@ branches are used when you want to work on a sub task which is not yet ready for
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 If you have made one commit on local and someone else has made a commit on remote then when you do a git fetch it will show that you have diverged and there are one commits on both.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaboration would be harder
+Managing different changes would be harder
+reviewing changes before accepting via pull requests wud be harder
