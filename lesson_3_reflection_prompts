@@ -16,3 +16,7 @@ forks is used when u don't or rather not have permission to change someone else'
 clones is when you want to save the project to your local system and if you want you also have the ability to push this to your own github repository
 
 branches are used when you want to work on a sub task which is not yet ready for production environment. Like making and testing a new feature before production.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If you have made one commit on local and someone else has made a commit on remote then when you do a git fetch it will show that you have diverged and there are one commits on both.
